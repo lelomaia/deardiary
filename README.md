@@ -1,9 +1,2 @@
 <h1 align=center> Dear Diary </h1>
-
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
-</h1>
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 Next</a>
-</h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
+<p align="center">🚀 Como foi o seu dia? Registre todos os seus momentos. Requer autenticação com Github.</p>
