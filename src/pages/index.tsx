@@ -23,7 +23,7 @@ export default function Home({ product }: HomeProps) {
       <main className={styles.contentContainer}>
         <section className={styles.hero}>
           <span>👏 Olá, seja bem-vindo(a)</span>
-          <h1><span>Registre todos os seus momentos </span><br />e não perca nada</h1>
+          <h1>Registre todos os seus momentos e<br /><span>não perca nada</span></h1>
           <p>
             Tenha acesso a todos os recursos <br />
             <span>por {product.amount}/mês</span>

@@ -20,4 +20,9 @@
     &:hover {
         filter: brightness(0.8);
     }
+
+    svg:first-child {
+        font-size: 1.5rem;
+        margin-right: 0.5rem;
+    }
 }
